@@ -1,0 +1,47 @@
+{
+  "analysis_info": {
+    "title": "Advanced Documentation Analysis",
+    "timestamp": "2025-05-31T21:27:08.092244",
+    "method_used": "huggingface"
+  },
+  "analysis_results": {
+    "readability": {
+      "score": 55,
+      "assessment": "Poor readability - too complex for marketers",
+      "suggestions": [
+        "Readability is good for the target audience."
+      ]
+    },
+    "structure": {
+      "score": 70,
+      "assessment": "Well-structured",
+      "suggestions": [
+        "Add more section headings to improve navigation"
+      ]
+    },
+    "completeness": {
+      "score": 35,
+      "assessment": "Missing key information",
+      "suggestions": [
+        "Add concrete examples to illustrate concepts",
+        "Include troubleshooting section for common issues",
+        "Expand content with more detailed explanations"
+      ]
+    },
+    "style": {
+      "score": 90,
+      "assessment": "Good writing style",
+      "suggestions": [
+        "Writing style is appropriate for the audience"
+      ]
+    }
+  },
+  "overall_score": 62.5,
+  "grade": "D",
+  "category_scores": {
+    "readability": 55,
+    "structure": 70,
+    "completeness": 35,
+    "style": 90
+  }
+}

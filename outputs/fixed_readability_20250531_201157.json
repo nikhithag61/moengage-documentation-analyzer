@@ -1,0 +1,28 @@
+{
+  "assessment": "Very Difficult - Inappropriate for marketers",
+  "score": 20,
+  "marketer_friendly": false,
+  "detailed_metrics": {
+    "flesch_kincaid_grade": 19.7,
+    "gunning_fog_index": 20.6,
+    "flesch_reading_ease": 3.6,
+    "automated_readability_index": 21.3,
+    "coleman_liau_index": 18.1,
+    "word_count": 251,
+    "sentence_count": 9,
+    "syllable_count": 519,
+    "avg_sentence_length": 27.9
+  },
+  "grade_level_interpretation": {
+    "flesch_kincaid": "Grade 20 level",
+    "target_audience": "Non-technical marketers",
+    "recommended_grade": "8-10 for optimal accessibility"
+  },
+  "suggestions": [
+    "Flesch-Kincaid grade level is 19.7 (college level) - aim for 8-10 for marketers",
+    "Gunning Fog index is 20.6 - reduce complex words and long sentences",
+    "Reading ease score is 3.6 - aim for 60+ for marketing content",
+    "Average sentence length is 27.9 words - break up long sentences"
+  ],
+  "analysis_method": "textstat_library"
+}

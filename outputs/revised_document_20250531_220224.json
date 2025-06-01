@@ -1,0 +1,38 @@
+{
+  "original_content": "Explore the Number of Notifications Received by Users\n\nThe Notification Received report helps you understand how many notifications your users have received across different channels like Push, Email, SMS, and In-app. This report provides insights into your notification distribution and user engagement patterns.\n\nHow to Access the Report\n\nTo access the Notification Received report, follow these steps:\n\n1. Navigate to Analytics dashboard\n2. Click on Reports in the left sidebar\n3. Select Notification Reports from the dropdown\n4. Choose \"Notifications Received by Users\" from the list\n\nUnderstanding the Data\n\nThe report displays data in multiple formats:\n\n- Overall Distribution: Shows the percentage breakdown of users by notification count\n- Channel-wise Analysis: Breaks down notifications by channel (Push, Email, SMS, In-app)\n- Time-based Trends: Shows how notification patterns change over time\n\nKey Metrics\n\nTotal Notifications Sent: The total number of notifications delivered across all channels\nUnique Users Reached: Number of distinct users who received at least one notification\nAverage Notifications per User: Mean number of notifications received per user\nChannel Distribution: Percentage breakdown by notification channel",
+  "revised_content": "Explore the Number of Notifications Received by Users\n\nThe Notification Received report helps you understand how many notifications your users have received across different channels like Push, Email, SMS, and In-app This report provides insights into your notification distribution and user engagement patterns How to Access the Report\n\nTo access the Notification Received report, follow these steps:\n\n1 Go to Analytics dashboard\n2 Click on Reports in the left sidebar\n3 Select Notification Reports from the dropdown\n4 Choose \"Notifications Received by Users\" from the list\n\nUnderstanding the Data\n\nThe report displays data in multiple formats:\n\n- Overall Distribution: Shows the percentage breakdown of users by notification count\n- Channel-wise Analysis: Breaks down notifications by channel (Push, Email, SMS, In-app)\n- Time-based Trends: Shows how notification patterns change over time\n\nKey Metrics\n\nExample: If you sent 1,000 notifications to 500 users, your average notifications per user would be 2.0.\n\nMetrics Overview\n\nTotal Notifications Sent: The total number of notifications delivered across all channels\nUnique Users Reached: Number of distinct users who received at least one notification\nAverage Notifications per User: Mean number of notifications received per user\nChannel Distribution: Percentage breakdown by notification channel\n\nTroubleshooting\n\nIf you encounter issues:\n- Check your permissions\n- Verify the data range selected\n- Contact support if problems persist",
+  "revision_log": [
+    {
+      "category": "structure",
+      "description": "Converted text to list format",
+      "timestamp": "2025-05-31T22:02:24.457173"
+    },
+    {
+      "category": "completeness",
+      "description": "Added Troubleshooting section",
+      "timestamp": "2025-05-31T22:02:24.457173"
+    },
+    {
+      "category": "completeness",
+      "description": "Added usage example",
+      "timestamp": "2025-05-31T22:02:24.457173"
+    }
+  ],
+  "summary": {
+    "total_revisions": 3,
+    "changes_by_category": {
+      "structure": 1,
+      "completeness": 2
+    },
+    "content_changes": {
+      "word_count": "175 → 215 (+40)",
+      "sentence_count": "7 → 3 (-4)",
+      "readability_improvement": "Maintained sentence length"
+    },
+    "revision_categories": [
+      "structure",
+      "completeness"
+    ]
+  },
+  "timestamp": "2025-05-31T22:02:24.457173"
+}

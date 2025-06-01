@@ -1,0 +1,36 @@
+Explore the Number of Notifications Received by Users
+
+The Notification Received report helps you understand how many notifications your users have received across different channels like Push, Email, SMS, and In-app This report provides insights into your notification distribution and user engagement patterns How to Access the Report
+
+To access the Notification Received report, follow these steps:
+
+1 Go to Analytics dashboard
+2 Click on Reports in the left sidebar
+3 Select Notification Reports from the dropdown
+4 Choose "Notifications Received by Users" from the list
+
+Understanding the Data
+
+The report displays data in multiple formats:
+
+- Overall Distribution: Shows the percentage breakdown of users by notification count
+- Channel-wise Analysis: Breaks down notifications by channel (Push, Email, SMS, In-app)
+- Time-based Trends: Shows how notification patterns change over time
+
+Key Metrics
+
+Example: If you sent 1,000 notifications to 500 users, your average notifications per user would be 2.0.
+
+Metrics Overview
+
+Total Notifications Sent: The total number of notifications delivered across all channels
+Unique Users Reached: Number of distinct users who received at least one notification
+Average Notifications per User: Mean number of notifications received per user
+Channel Distribution: Percentage breakdown by notification channel
+
+Troubleshooting
+
+If you encounter issues:
+- Check your permissions
+- Verify the data range selected
+- Contact support if problems persist
