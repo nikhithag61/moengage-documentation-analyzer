@@ -1,0 +1,32 @@
+{
+  "url": "https://help.moengage.com/hc/en-us/articles/360035738832-Explore-the-Number-of-Notifications-Received-by-Users",
+  "title": "Explore the Number of Notifications Received by Users",
+  "scraped_successfully": false,
+  "content_stats": {
+    "word_count": 126,
+    "sentence_count": 7,
+    "avg_sentence_length": 18.0,
+    "headings": 4,
+    "paragraphs": 2
+  },
+  "analysis_results": {
+    "readability": {
+      "score": 85,
+      "assessment": "Good - appropriate for marketers"
+    },
+    "structure": {
+      "score": 75,
+      "assessment": "Well-structured"
+    },
+    "completeness": {
+      "score": 50,
+      "assessment": "Missing elements"
+    },
+    "style": {
+      "score": 75,
+      "assessment": "Good style"
+    }
+  },
+  "overall_score": 71.2,
+  "grade": "C"
+}

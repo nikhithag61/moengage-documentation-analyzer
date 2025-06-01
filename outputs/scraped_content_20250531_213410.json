@@ -1,0 +1,42 @@
+{
+  "url": "https://help.moengage.com/hc/en-us/articles/360035738832-Explore-the-Number-of-Notifications-Received-by-Users",
+  "title": "Explore the Number of Notifications Received by Users",
+  "content": "The Notification Received report helps you understand how many notifications your users have received across different channels like Push, Email, SMS, and In-app. This report provides insights into your notification distribution and user engagement patterns.\n\nTo access the Notification Received report, follow these steps:\n1. Navigate to Analytics dashboard\n2. Click on Reports in the left sidebar\n3. Select Notification Reports from the dropdown\n4. Choose \"Notifications Received by Users\" from the list\n\nThe report displays data in multiple formats:\n- Overall Distribution: Shows the percentage breakdown of users by notification count\n- Channel-wise Analysis: Breaks down notifications by channel\n- Time-based Trends: Shows how notification patterns change over time\n\nKey metrics include Total Notifications Sent, Unique Users Reached, Average Notifications per User, and Channel Distribution.",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "Explore the Number of Notifications Received by Users"
+    },
+    {
+      "level": "h2",
+      "text": "How to Access the Report"
+    },
+    {
+      "level": "h2",
+      "text": "Understanding the Data"
+    },
+    {
+      "level": "h2",
+      "text": "Key Metrics"
+    }
+  ],
+  "paragraphs": [
+    "The Notification Received report helps you understand how many notifications your users have received across different channels.",
+    "This report provides insights into your notification distribution and user engagement patterns."
+  ],
+  "lists": [
+    {
+      "type": "ol",
+      "items": [
+        "Navigate to Analytics dashboard",
+        "Click on Reports in the left sidebar",
+        "Select Notification Reports from the dropdown",
+        "Choose \"Notifications Received by Users\" from the list"
+      ]
+    }
+  ],
+  "word_count": 150,
+  "scraped_at": "2025-05-31T21:34:10.873265",
+  "success": false,
+  "fallback": true
+}
