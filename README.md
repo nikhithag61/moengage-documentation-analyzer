@@ -12,6 +12,7 @@ An AI-powered documentation analysis system that evaluates MoEngage help article
 - **No API Costs**: Works with local analysis when LLM APIs are unavailable
 
 ## Project Structure
+```
 moengage-documentation-analyzer/
 ├── README.md                           # Main documentation
 ├── requirements.txt                    # Python dependencies
@@ -31,6 +32,7 @@ moengage-documentation-analyzer/
 │   ├── analysis_on_scraped_20250531_213410.json
 │   └── scraped_content_20250531_213410.json
 
+```
 ## Setup and Installation
 
 ### Prerequisites
