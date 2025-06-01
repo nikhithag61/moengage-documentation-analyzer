@@ -12,29 +12,24 @@ An AI-powered documentation analysis system that evaluates MoEngage help article
 - **No API Costs**: Works with local analysis when LLM APIs are unavailable
 
 ## Project Structure
-
-```
 moengage-documentation-analyzer/
-├── README.md
-├── requirements.txt
-├── .env.example
-├── .gitignore
-├── src/
-│   ├── __init__.py
-│   ├── main_analyzer.py          # Main analysis pipeline
-│   ├── web_scraper.py            # Web scraping functionality
-│   ├── advanced_analyzer.py      # Advanced analysis without APIs
-│   └── revision_agent.py         # Document revision agent
-├── tests/
-│   ├── test_analyzer.py
-│   └── test_scraper.py
-├── examples/
-│   ├── example_output_1.json
-│   ├── example_output_2.json
-│   └── revised_example.txt
-└── output/
-    └── .gitkeep
-```
+├── README.md                           # Main documentation
+├── requirements.txt                    # Python dependencies
+│
+├── src/                               # Source code
+│   ├── __init__.py                    # Python package
+│   ├── agent1_analyzer.py             # MAIN: Documentation Analysis Agent
+│   ├── agent2_revision.py             # BONUS: Document Revision Agent
+│   ├── web_scraper.py                 # Web scraping component
+│   └── advanced_analyzer.py           # Local analysis engine
+│
+└── output/                            # Generated analysis 
+│   ├── advanced_analysis_20250531_212708.json   
+│   ├── complete_analysis_20250531_201157.json   
+│   ├── revised_content_20250531_220224.txt
+│   └── revised_document_20250531_220224.json
+│   ├── analysis_on_scraped_20250531_213410.json
+│   └── scraped_content_20250531_213410.json
 
 ## Setup and Installation
 
